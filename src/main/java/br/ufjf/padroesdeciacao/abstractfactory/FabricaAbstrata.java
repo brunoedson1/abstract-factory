@@ -4,4 +4,3 @@ public interface FabricaAbstrata {
     IRelatorio criarRelatorio();
     IDemonstrativo criarDemonstrativo();
 }
-

@@ -23,4 +23,3 @@ public class FabricaFiscalTest {
         assertEquals("Demonstrativo Fiscal analisado", demonstrativo.analisar());
     }
 }
-

@@ -5,4 +5,3 @@ public class FiscalRelatorio implements IRelatorio {
         return "Relatório Fiscal gerado";
     }
 }
-

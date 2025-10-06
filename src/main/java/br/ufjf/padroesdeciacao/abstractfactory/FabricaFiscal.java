@@ -8,4 +8,3 @@ public class FabricaFiscal implements FabricaAbstrata {
         return new FiscalDemonstrativo();
     }
 }
-
